@@ -4,7 +4,7 @@
 # SID: 750027911
 # Exam Date: 27/03/2025
 # Module: BEMM1458
-# Github link for this assignment:  
+# Github link for this assignment: https://github.com/UniversityExeterBusinessSchool/practiceassessment-thursday-CharlesLi-exeter
 #
 # ######################################################################################################################################################
 # Instruction 1. Read the questions and instructions carefully and complete scripts.
@@ -48,24 +48,6 @@ key_comments = {
 }
 
 # Write your search code here and provide comments. 
-
-# Initialize an empty list to store (start, end) positions
-my_list = []
-
-# Initialize the sentence and dictionary
-customer_feedback = """Your recent order experience has been satisfactory overall. While there were some minor issues, we appreciate the effort made to resolve them promptly."""
-key_comments = {
-    0: 'satisfactory',
-    1: 'order',
-    2: 'effort',
-    3: 'issues',
-    4: 'promptly',
-    5: 'appreciate',
-    6: 'experience',
-    7: 'resolve',
-    8: 'overall',
-    9: 'minor'
-}
 
 # Initialize an empty list to store (start, end) positions
 my_list = []
